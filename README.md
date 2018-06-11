@@ -1,3 +1,4 @@
 # shopingList
 Some app that help me to learn Angular bla bla
- Some app
+ New change
+
